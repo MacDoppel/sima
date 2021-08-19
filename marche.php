@@ -115,8 +115,8 @@ include_once('db_conf.php');
                     data-parent="#accordionSidebar">
                     <div class="bg-white py-2 collapse-inner rounded">
                         <h6 class="collapse-header">Notification</h6>
-                        <a class="collapse-item" href="smssend.php">Messages a envoyer</a>
-                        <a class="collapse-item" href="smsreceive.php">Message recus</a>
+                        <a class="collapse-item" href="smssend.php">Messages à envoyer</a>
+                        <a class="collapse-item" href="smsreceive.php">Message reçus</a>
                         <a class="collapse-item" href="ussd.php">USSD</a>
                     </div>
                 </div>
